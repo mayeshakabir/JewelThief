@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C43A76C9-F719-3E87-F88E-9CBF5CFD9A21}") = "JewelThief", "Assembly-CSharp.csproj", "{1F1AFB36-4136-5E5B-93F4-BE45D22280BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1AFB36-4136-5E5B-93F4-BE45D22280BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1AFB36-4136-5E5B-93F4-BE45D22280BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1AFB36-4136-5E5B-93F4-BE45D22280BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1AFB36-4136-5E5B-93F4-BE45D22280BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
